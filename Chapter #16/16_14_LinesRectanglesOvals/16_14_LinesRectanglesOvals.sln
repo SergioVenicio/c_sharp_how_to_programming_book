@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_14_LinesRectanglesOvals", "16_14_LinesRectanglesOvals\16_14_LinesRectanglesOvals.csproj", "{B56C3AC4-7016-4D60-B725-05F5E374D780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56C3AC4-7016-4D60-B725-05F5E374D780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56C3AC4-7016-4D60-B725-05F5E374D780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56C3AC4-7016-4D60-B725-05F5E374D780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56C3AC4-7016-4D60-B725-05F5E374D780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2307E04F-1E24-4DF3-89B8-18E60E37B214}
+	EndGlobalSection
+EndGlobal
