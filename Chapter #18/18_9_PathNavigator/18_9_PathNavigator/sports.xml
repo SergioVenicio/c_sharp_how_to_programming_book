@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<sports>
+	<game id="783">
+		<name>Cricket</name>
+
+		<paragraph>
+			More popular among commonwealth nations.
+		</paragraph>
+	</game>
+	
+	<game id="239">
+		<name>Baseball</name>
+
+		<paragraph>
+			More popular in America.
+		</paragraph>
+	</game>
+	
+	<game id="783">
+		<name>Soccer</name>
+		<paragraph>More popular in the world.</paragraph>
+	</game>
+</sports>

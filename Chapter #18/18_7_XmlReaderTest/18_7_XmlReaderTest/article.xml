@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<article>
+	<title>Simple XML</title>
+	<author>
+		<firstName>Joe</firstName>
+		<lastName>Do</lastName>
+	</author>
+</article>
